@@ -24,13 +24,13 @@ Task 1: Temperature Conversion<br/>
 
 Task 2: Gross Salary Calculation<br/>
 
-GreenHornsTask2<br/>(https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)           
+![GreenHornsTask2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)        
 
 Task 3: Triangle Angle Calculation<br/>
 
 GreenHornsTask3<br/>
 
-(https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/883562bd-a851-47bd-9ba1-82ae6aabad75)
+![GreenHornsTask3](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/883562bd-a851-47bd-9ba1-82ae6aabad75)
 
 Embark on this thrilling quest to earn your marks and ascend to new heights in your programming journey! 🏆🚀
 
