@@ -8,29 +8,23 @@ The Greenhorns Project is a sanctuary for budding coders, meticulously crafted t
 🎯 Project Tasks
 In the Greenhorns project, you'll undertake three exciting tasks, each worth 10 marks. These tasks are ingeniously designed to push the boundaries of your skills and enrich your understanding of programming principles:
 
-Task 1: Temperature Conversion
+Task 1: Temperature Conversion<br/>
+Craft a program that seamlessly converts temperature from degrees Celsius to Fahrenheit.<br/>
+Task 2: Gross Salary Calculation<br/>
+Dive into the world of C programming to compute gross salary by factoring in user-defined percentages of HRA, DA, and TA.<br/>
+Task 3: Triangle Angle Calculation<br/>
+Unlock the mysteries of triangles with a C program that calculates the third angle given two other angles.<br/>
 
-Craft a program that seamlessly converts temperature from degrees Celsius to Fahrenheit.
-Task 2: Gross Salary Calculation
-
-Dive into the world of C programming to compute gross salary by factoring in user-defined percentages of HRA, DA, and TA.
-Task 3: Triangle Angle Calculation
-
-Unlock the mysteries of triangles with a C program that calculates the third angle given two other angles.
 📊 Original Output Images
 To ensure clarity and inspiration, behold the original output images for each task:
 
 Task 1: Temperature Conversion<br/>
 
-GreenHornsTask1<br/>
-
-(https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/b051d167-f346-4ae6-bcd1-741d8e4b15bc)    
+GreenHornsTask1(https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/b051d167-f346-4ae6-bcd1-741d8e4b15bc)    
 
 Task 2: Gross Salary Calculation<br/>
 
-GreenHornsTask2<br/>
-
-(https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)           
+GreenHornsTask2<br/>(https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)           
 
 Task 3: Triangle Angle Calculation<br/>
 
