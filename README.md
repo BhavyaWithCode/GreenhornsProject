@@ -6,14 +6,16 @@ Welcome to the Greenhorns Project, a journey of discovery and learning for buddi
 The Greenhorns Project is a sanctuary for budding coders, meticulously crafted to nurture your skills and ignite your passion for programming. 🌿✨ Embark on this exhilarating adventure where you'll delve into the depths of coding concepts, guided by engaging tasks and abundant resources.
 
 🎯 Project Tasks
-In the Greenhorns project, you'll undertake three exciting tasks, each worth 10 marks. These tasks are ingeniously designed to push the boundaries of your skills and enrich your understanding of programming principles:
+In the Greenhorns project, you'll embark on a thrilling journey filled with three exciting tasks, each carrying 10 marks. 🚀 These tasks are like treasures waiting to be uncovered, designed to stretch your skills and expand your knowledge of programming principles. 🌱💡 Let's dive in and conquer them together! 💪🔥
 
-Task 1: Temperature Conversion<br/>
-Craft a program that seamlessly converts temperature from degrees Celsius to Fahrenheit.<br/>
-Task 2: Gross Salary Calculation<br/>
-Dive into the world of C programming to compute gross salary by factoring in user-defined percentages of HRA, DA, and TA.<br/>
-Task 3: Triangle Angle Calculation<br/>
-Unlock the mysteries of triangles with a C program that calculates the third angle given two other angles.<br/>
+Task 1: 🌡️ Temperature Conversion<br/>
+Craft a program that seamlessly converts temperature from degrees Celsius to Fahrenheit. 🔥❄️<br/>
+Task 2: 💼 Gross Salary Calculation<br/>
+Dive into the world of C programming to compute gross salary by factoring in user-defined percentages of HRA, DA, and TA. 💰💻<br/>
+Task 3: 🔺 Triangle Angle Calculation<br/>
+Unlock the mysteries of triangles with a C program that calculates the third angle given two other angles. 📐✨<br/>
+
+Embark on this thrilling quest to earn your marks and ascend to new heights in your programming journey! 🏆🚀
 
 📊 Original Output Images
 To ensure clarity and inspiration, behold the original output images for each task:
